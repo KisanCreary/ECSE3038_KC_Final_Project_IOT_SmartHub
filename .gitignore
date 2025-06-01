@@ -1,55 +1,10 @@
-﻿
-# PlatformIO and VSCode artifacts
+﻿# PlatformIO and IDE files
 .pio/
 .vscode/
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
-!.vscode/launch.json
-.vscode
-.pio
 
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
-*.pyd
-*.pyo
-*.egg-info/
-*.so
 
 # Environment files
-.env
 .venv/
-venv/
-env/
-.venv
-
-# Build/compilation files
-build/
-dist/
-*.exe
-*.out
-*.app
-
-# PlatformIO
-platformio.ini.local
-
-# Debug files
-*.log
-*.pid
-*.pid.lock
-
-# OS generated
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# IDE specific
-.idea/
-*.swp
-*.swo
-*~
