@@ -14,12 +14,13 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"]
 )
+
 # ----- Models -----
 class SensorData(BaseModel):
     temperature: float
     humidity: float
     lux: float
-    motion: bool  # Match frontend field if needed
+    motion: bool  
 
 class UserSettings(BaseModel):
     user_temp: float
