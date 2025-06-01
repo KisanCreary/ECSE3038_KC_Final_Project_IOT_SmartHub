@@ -1,4 +1,4 @@
-# Simple Smart Hub 
+﻿# Simple Smart Hub 
 
 This is my final year IoT project — a smart home system that controls lights and fans based on time, temperature, and whether someone is in the room. It uses an ESP32 (simulated in Wokwi), a FastAPI backend, and a simple web interface to control everything.
 
@@ -32,10 +32,4 @@ This is my final year IoT project — a smart home system that controls lights a
 
 A little off topic: 
 I also want to say thank you sir, for your reception for the course.Thank you for your overall reception and understanding, correction and reassurance when I misplaced and misinterpreted your actions as neglect when it was wholey push so that I could grow and become better. I can say what we spoke about, where I told you my reason for my paranoia lmao best believe he has made his way back into course and now at this present moment I almost never write this readme file as lol the grades are out and somehow again my maths script is missing again lol so yea rep rep.... Thank you for all that you have seen in me best believe I have lost myself in this abuse and harassment since 2023 and completelky this year since things has just been out of control though they say he is fired, I am exposed now to lol every discipline and now the first years know because of a stunt they pulled in math presentation. So sir it has been rufffffaaaaa since April. However, I remember your words and I know your expectations and so yea rep rep rep with tears and in the depression I still had to pull through so thank you for your words thank you for your beliefs lol mi a come to you wid mi capstone ideas soon lol rep rep please so you can give me your expert advice thanks would also ask if you would and could please please consider being one of my advisors, I would appreciate this please as after all I have been going through at the faculty respectfully mi only trust you, Mr. Mangaroo and Sir. Falconer a try redeem himself lol so theres potential but yea I would really really appreciate this sir thanks.
-## How to Run It
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/ECSE3038_Project.git
-cd ECSE3038_Project
