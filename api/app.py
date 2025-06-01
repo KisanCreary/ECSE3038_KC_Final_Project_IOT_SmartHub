@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 from datetime import datetime, timedelta
 from typing import Optional, Dict, List
 import uuid
-import logging 
+import logging
 
 app = FastAPI()
 
@@ -12,9 +12,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_methods=["*"],
-    allow_headers=["*"],
+    allow_headers=["*"]
 )
-
 # ----- Models -----
 class SensorData(BaseModel):
     temperature: float
